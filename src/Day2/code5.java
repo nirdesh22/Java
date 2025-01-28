@@ -20,7 +20,4 @@ public class code5 {
             public int groesse;
             public Mann ehemann;
         }
-    }
-
-
 }
