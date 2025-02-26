@@ -8,5 +8,4 @@ public class code1 {
         int relsult = ++a - (c++ - b) + c;
         System.out.println(relsult);
     }
-}
-
+ }
