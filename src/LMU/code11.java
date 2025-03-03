@@ -8,5 +8,5 @@ public class code11 {
 
         int number = sc.nextInt();
 
-     df
+
 }
